@@ -13,7 +13,8 @@ This package was written by Sophie Mathieu (UCLouvain/Royal Observatory of Belgi
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install uncertainty:
 
 ````
-pip install git+https://gitlab-as.oma.be/SIDC/SILSO_USET/valusun_group/sunspot_numbers/uncertainty.git
+pip install git+https://github.com/sophiano/uncertainty
+
 ````
 
 
@@ -34,11 +35,4 @@ This folder contains the scripts of the package.
 
 ## References
 
-* Mathieu, S., von Sachs, R., Delouille, V., Lefèvre, L. & Ritter, C. (2019).
-_Uncertainty quantification in sunspot counts_. The Astrophysical Journal, 886(1):7. Available on [arXiv](https://arxiv.org/abs/2009.09810).
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-
+* Mathieu, S., von Sachs, R., Delouille, V., Lef

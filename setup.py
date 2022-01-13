@@ -16,7 +16,7 @@ setuptools.setup(
     description="Model of the sunspot numbers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://gitlab-as.oma.be/SIDC/SILSO_USET/valusun_group/sunspot_numbers/uncertainty.git",
+    url="https://github.com/sophiano/uncertainty",
     packages=['uncertainty', 'data'],
     install_requires=['numpy>=1.19.5', 
                       'scipy>=1.6.0',
