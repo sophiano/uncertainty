@@ -1,0 +1,8 @@
+# Include the data files
+include data/data_1981
+include data/data_21_1947
+include data/kisl_wolf.txt
+#recursive-include data *
+
+
+
