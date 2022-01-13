@@ -21,9 +21,7 @@ setuptools.setup(
     install_requires=['numpy>=1.19.5', 
                       'scipy>=1.6.0',
                       'matplotlib>=3.3.3',
-                      'scikit-learn>=0.24.1',
-                      'statsmodels>=0.12.1', 
-                      'kneed>=0.7.0'
+                      'scikit-learn>=0.24.1'
                       ],
     classifiers=[
         # How mature is this project? Common values are
